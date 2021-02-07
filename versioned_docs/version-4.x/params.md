@@ -67,7 +67,8 @@ class DetailsScreen extends React.Component {
 
 > You can also directly access the params object with `this.props.navigation.state.params`. This may be `null` if no params were supplied, and so it's usually easier to just use `getParam` so you don't have to deal with that case.
 
-> If you want to access the params directly through props (eg. `this.props.itemId`) rather than `this.props.navigation.getParam`, you may use a community-developed [react-navigation-props-mapper](https://github.com/vonovak/react-navigation-props-mapper) package.
+> If you want to access the 
+arams directly through props (eg. `this.props.itemId`) rather than `this.props.navigation.getParam`, you may use a community-developed [react-navigation-props-mapper](https://github.com/vonovak/react-navigation-props-mapper) package.
 
 ## Summary
 
